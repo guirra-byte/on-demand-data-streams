@@ -1,0 +1,1 @@
+Este projeto utiliza Node.js Streams para consumir dados de forma eficiente, implementando Server-Sent Events (SSE) para uma transmissão em tempo real. A funcionalidade de sob demanda é otimizada por meio do uso de Worker Threads, proporcionando uma experiência de consumo eficaz e escalável.
