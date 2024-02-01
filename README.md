@@ -1,5 +1,5 @@
 Este projeto utiliza Node.js Streams para consumir dados sob demanda, implementando Server-Sent Events (SSE) para uma transmissão dos dados em tempo real. A funcionalidade de sob demanda é otimizada por meio do uso de Worker Threads, proporcionando uma experiência de consumo eficaz e escalável.
 <hr>
 # Tecnologias utilizadas:
-https://www.aikonbox.com.br/icons?i=javascript
-https://www.aikonbox.com.br/icons?i=nodejs
+ <img src="https://www.aikonbox.com.br/icons?i=javascript">
+ <img src="https://www.aikonbox.com.br/icons?i=nodejs">
